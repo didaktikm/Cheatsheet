@@ -2,9 +2,9 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'Didaktik cheatsheet'
+copyright = '2022, Didaktik'
+author = 'Didaktik'
 
 release = '0.1'
 version = '0.1.0'

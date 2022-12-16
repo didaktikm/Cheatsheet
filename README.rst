@@ -1,9 +1,8 @@
-Template for the Read the Docs tutorial
-=======================================
+Welcome to Didaktik cheatsheet
+===================================
 
-This GitHub template includes fictional Python library
-with some basic Sphinx docs.
+TL;DR
 
-Read the tutorial here:
+.. note::
 
-https://docs.readthedocs.io/en/stable/tutorial/
+   Документация в процессе заполнения
